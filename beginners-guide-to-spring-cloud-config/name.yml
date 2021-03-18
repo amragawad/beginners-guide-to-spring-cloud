@@ -1,6 +1,5 @@
 server:
   port: 7070
-
 name: Ryan
 names:
   - Baxter
