@@ -1,6 +1,11 @@
 server:
   port: 7070
-  
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://10.241.0.5:8761/eureka
+
 name: Ryan
 names:
   - Baxter
