@@ -3,8 +3,8 @@ server:
 
 eureka:
   client:
-    serviceUrl:
-      defaultZone: http://10.241.0.5:8761/eureka
+    service-url:
+      defaultZone: http://10.241.0.5:8761/eureka/v2
 
 name: Ryan
 names:
